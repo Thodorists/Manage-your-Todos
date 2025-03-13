@@ -1,2 +1,2 @@
 # React + Vite
-#Manage your Todos + Fark mode
+# Manage your Todos + Fark mode
